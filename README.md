@@ -6,11 +6,15 @@ balanced antenna tuner controller. This repository publishes ready-to-flash
 
 ## Downloading
 
-Each [release](https://github.com/hastrupandersen/StayTunedReleases/releases)
-is tagged with its firmware version (e.g. `v1.1.19`) and includes the
-`firmware-X.Y.Z.bin` file plus a matching `USER_GUIDE.md` for that version.
-Grab the latest one from the
-[Releases page](https://github.com/hastrupandersen/StayTunedReleases/releases/latest).
+Each version lives in its own folder under
+[`releases/`](releases/), named after its tag (e.g. `releases/v1.1.21/`),
+containing:
+
+- `firmware-X.Y.Z.bin` — the firmware binary
+- `USER_GUIDE.md` — the user guide matching that version
+- `RELEASE_NOTES.md` — what changed in that version
+
+The newest folder (highest version number) is the latest release.
 
 ## Installing
 
