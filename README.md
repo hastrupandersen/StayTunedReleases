@@ -7,8 +7,9 @@ balanced antenna tuner controller. This repository publishes ready-to-flash
 ## Downloading
 
 Each [release](https://github.com/hastrupandersen/StayTunedReleases/releases)
-is tagged with its firmware version (e.g. `v1.1.19`) and has one
-`firmware-X.Y.Z.bin` file attached. Grab the latest one from the
+is tagged with its firmware version (e.g. `v1.1.19`) and includes the
+`firmware-X.Y.Z.bin` file plus a matching `USER_GUIDE.md` for that version.
+Grab the latest one from the
 [Releases page](https://github.com/hastrupandersen/StayTunedReleases/releases/latest).
 
 ## Installing
